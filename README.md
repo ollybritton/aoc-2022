@@ -6,6 +6,7 @@ Here are my solutions for [Advent of Code 2022](https://adventofcode.com/2022). 
 - [X] [Day 3: Rucksack Reorganization](https://adventofcode.com/2022/day/3), my [solution](./03.ipynb).
 - [X] [Day 4: Camp Cleanup](https://adventofcode.com/2022/day/4), my [solution](./04.ipynb).
 - [X] [Day 5: Supply Stacks](https://adventofcode.com/2022/day/5), my [solution](./05.ipynb).
+- [X] [Day 6: Tuning Trouble](https://adventofcode.com/2022/day/6), my [solution](./06.ipynb).
 
 ### Friends
 - <https://gitlab.com/charliebritton/aoc-2022>
